@@ -8,3 +8,5 @@ Tech stack:
   - Html
   - CSS
   - JavaScript
+
+The link for the website is https://ayu0107.github.io/Sprhawk-team-website/index.html#team
