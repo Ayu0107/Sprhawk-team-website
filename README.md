@@ -9,4 +9,4 @@ Tech stack:
   - CSS
   - JavaScript
 
-The link for the website is https://ayu0107.github.io/Sprhawk-team-website/index.html#team
+The link for the website is https://ayushiiaggarwall.github.io/Sprhawk-team-website/
